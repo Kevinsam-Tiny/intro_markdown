@@ -7,3 +7,6 @@ def greet():
         print('Have a good day')
 greet()
 ```
+- [x] Checklist 1
+- [ ] Checklist 2
+- [x] Checklist 3
